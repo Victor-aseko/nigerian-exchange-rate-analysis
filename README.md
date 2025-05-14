@@ -63,7 +63,7 @@ It’s a practical application of web scraping using APIs, combined with busines
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/nigerian-exchange-rate-analysis.git
+   git clone https://github.com/Oluwakoya-ao/nigerian-exchange-rate-analysis.git
    ```
 
 2. **Run the Python script** (from Jupyter Notebook or terminal):
