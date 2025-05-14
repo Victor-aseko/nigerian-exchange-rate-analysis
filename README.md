@@ -80,3 +80,14 @@ Understand how to extract live data using APIs.
 Practice data handling and transformation using Python.
 
 Build professional dashboards using Power BI.
+🙏 Credits & Acknowledgment
+This project was developed as part of the Data Analytics – Deep Dive Mentorship Program.
+Special thanks to the original creator of the project, who kindly granted permission to replicate and learn from their work.
+
+✍️ Author
+Oluwakoya Oluwafemi
+Data Analyst | Power BI Developer
+📧 oluwakoyafavour@gmail.com
+🔗 LinkedIn Profile
+
+
